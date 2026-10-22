@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-1",
+    "name": "Administrador",
+    "carnet": "13028039",
+    "password": "13028039",
+    "role": "ADMIN"
+  },
+  {
+    "id": "user-2",
+    "name": "Usuario de prueba",
+    "carnet": "7654321",
+    "password": "usuario123",
+    "role": "USUARIO"
+  }
+]

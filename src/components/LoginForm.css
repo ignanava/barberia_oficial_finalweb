@@ -1,0 +1,6 @@
+.login-page { min-height: 100vh; display: grid; place-items: center; padding: 30px 20px; background: var(--black); }
+.login-card { width: min(100%, 460px); padding: 32px; background: var(--cream); border-top: 4px solid var(--gold); }
+.login-form { display: grid; gap: 22px; }
+.login-form h1 { font-family: 'Bebas Neue', sans-serif; font-size: 3rem; }
+.login-form [role='alert'] { color: var(--red); }
+.login-back { display: inline-block; margin-top: 22px; text-decoration: underline; }
